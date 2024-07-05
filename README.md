@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Yogesh saini
+- 🎓 M.C.A
+- 🖥️ Java Programing
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning software development
 - 📫 yogeshsaini8077@gmail.com
