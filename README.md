@@ -5,7 +5,8 @@ Java Developer • Spring Boot • RESTful APIs • Backend Engineering
 - 🔭 Currently: Working on HIVE — Student Accommodations Finder
 - 📫 How to reach me: yogeshsaini8077@gmail.com | [LinkedIn](linkedin.com/in/yogesh-saini-095621310)
 
-**Summary** -
+**Summary** 
+
 I am an experienced Java developer with a strong foundation in Core Java, Spring, Hibernate, RESTful APIs and SQL. I’ve built backend services, REST APIs, and full-stack projects during my Academic and Internships. I enjoy solving problems, learning new technologies, and contributing to production-quality systems.
 
 **Core Skills**
