@@ -17,7 +17,8 @@ I am an experienced Java developer with a strong foundation in Core Java, Spring
 - Tools & Practices: Git, GitHub, Maven/Gradle, Postman
 - Other: Data Structures & Algorithms, AWS basics
 
-**Experience Highlights** -
+**Experience Highlights** 
+
 Roku Developer Intern — Tvid Services  
 - Developed and optimized features for DS Movie and Tvid Studio Roku apps using BrightScript and SceneGraph.  
 - Built an analytics service layer for tracking events, sessions and user behaviour.  
